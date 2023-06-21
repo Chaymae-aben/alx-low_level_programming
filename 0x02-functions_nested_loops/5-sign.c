@@ -26,5 +26,5 @@ int print_sign(int n)
 		return (-1);
 	}
 
-	return (-1); // Added a default return statement as a fallback
+	return (-1); /* Added a default return statement as a fallback */
 }
