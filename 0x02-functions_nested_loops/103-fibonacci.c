@@ -1,13 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - fibonacci <3
+ * main - prints the Fibonacci sequence up to a certain limit
  *
- * Purpose - no hardcode
- *
- * Return:  (Success)
+ * Return: Always 0 (Success)
  */
-
 int main(void)
 {
 	unsigned long int i;
